@@ -55,11 +55,4 @@ We plan to release the complete code after the paper is accepted.
 If you find this work useful, please cite:
 
 ```bibtex
-@article{chen2024ldsa,
-  title   = {Adapting Dense Vision-Language Relationships for Multi-label Classification with Partial Label},
-  author  = {Chen, Cheng and Zhao, Yifan and Li, Jia},
-  journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
-  year    = {2024},
-  note    = {Under review}
-}
 ```
