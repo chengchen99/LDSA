@@ -24,7 +24,7 @@ The evaluator expects a COCO2014 root with the following files:
 
 ```
 <data-root>/
-  val2014/                # raw val images
+  val2014/                # raw val images, which can be downloaded from http://images.cocodataset.org/zips/val2014.zip
   val_annotation.json     # [{"file_name": "...", "labels": [cat_idx, ...]}, ...]
   category.json           # {"person": 0, "bicycle": 1, ...}  (80 classes)
 ```
