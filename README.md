@@ -42,6 +42,7 @@ python eval_mixman10_standalone.py \
 Flags:
 
 - **`--ckpt`**: path to a `.pth` checkpoint.
+  - coco0p1: https://drive.google.com/file/d/11qhD4HZBwn6cv35tH4qb8w85x4dLuXXU/view?usp=sharing
 - **`--data-root`**: COCO2014 root with the layout shown above.
 
 ## More
